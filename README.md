@@ -49,11 +49,27 @@ Usage:
 
 1: git clone the repo into your machine.
 
+![image](https://github.com/mazer0P/host0n/assets/75685411/5f36c8e4-88f2-4da4-88d7-aaa508cb4eed)
+
+![image](https://github.com/mazer0P/host0n/assets/75685411/330c4232-af54-4d87-93c5-0739cbd0aa50)
+
 2: cd /host0n
+
+![image](https://github.com/mazer0P/host0n/assets/75685411/0866d596-366c-43f7-aeef-3ec48b00f60f)
+
 
 3: chmod +x hoston.sh
 
+![image](https://github.com/mazer0P/host0n/assets/75685411/761aa4c9-9987-43bd-be8d-f1b3f07f4032)
+
+
 4: ./host0n.sh ip 192.168.5 or any ip.
+
+![image](https://github.com/mazer0P/host0n/assets/75685411/f188448d-ec22-4f9c-8034-7fc7c19ec2c7)
+
+Results:
+
+![image](https://github.com/mazer0P/host0n/assets/75685411/62245e58-8963-4230-8e8d-0737dcbfb942)
 
 
 NOTE: This tool only works on valid ips and returns with the result of available alive hosts. This do not works with the domain or any other website.
